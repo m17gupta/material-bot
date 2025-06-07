@@ -1,0 +1,7 @@
+pymongo
+pandas
+numpy
+faiss-cpu
+openai>=1.0.0
+streamlit
+python-dotenv
